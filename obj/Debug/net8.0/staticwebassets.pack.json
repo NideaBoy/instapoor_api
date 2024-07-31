@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\GR1BSEsXQAEJYEo.png",
+      "PackagePath": "staticwebassets\\picture\\GR1BSEsXQAEJYEo.png"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\GR6SCtNbEAEe8Vp.jpg",
+      "PackagePath": "staticwebassets\\picture\\GR6SCtNbEAEe8Vp.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\GR6aAgpXMAAl8XV.jpg",
+      "PackagePath": "staticwebassets\\picture\\GR6aAgpXMAAl8XV.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\amai.jpeg",
+      "PackagePath": "staticwebassets\\picture\\amai.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\angel.jpg",
+      "PackagePath": "staticwebassets\\picture\\angel.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\ganzo.jpeg",
+      "PackagePath": "staticwebassets\\picture\\ganzo.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\kersus.jpeg",
+      "PackagePath": "staticwebassets\\picture\\kersus.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\nideaboy.jpg",
+      "PackagePath": "staticwebassets\\picture\\nideaboy.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\picture\\sami.jpg",
+      "PackagePath": "staticwebassets\\picture\\sami.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\368641897-352-k933480.jpg",
+      "PackagePath": "staticwebassets\\post\\368641897-352-k933480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\dibujogase.jpg",
+      "PackagePath": "staticwebassets\\post\\dibujogase.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\dibujogase2.jpg",
+      "PackagePath": "staticwebassets\\post\\dibujogase2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\dibujogase3.jpg",
+      "PackagePath": "staticwebassets\\post\\dibujogase3.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\dibujossami.png",
+      "PackagePath": "staticwebassets\\post\\dibujossami.png"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\dibujossami2.png",
+      "PackagePath": "staticwebassets\\post\\dibujossami2.png"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\dibujossami3.png",
+      "PackagePath": "staticwebassets\\post\\dibujossami3.png"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\imagen.jpg",
+      "PackagePath": "staticwebassets\\post\\imagen.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\imagen1.jpg",
+      "PackagePath": "staticwebassets\\post\\imagen1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\juganding.mp4",
+      "PackagePath": "staticwebassets\\post\\juganding.mp4"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme10.jpg",
+      "PackagePath": "staticwebassets\\post\\meme10.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme11.jpg",
+      "PackagePath": "staticwebassets\\post\\meme11.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme12.jpg",
+      "PackagePath": "staticwebassets\\post\\meme12.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme13.jpg",
+      "PackagePath": "staticwebassets\\post\\meme13.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme14.jpg",
+      "PackagePath": "staticwebassets\\post\\meme14.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme15.jpg",
+      "PackagePath": "staticwebassets\\post\\meme15.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme2.png",
+      "PackagePath": "staticwebassets\\post\\meme2.png"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme3.png",
+      "PackagePath": "staticwebassets\\post\\meme3.png"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme4.png",
+      "PackagePath": "staticwebassets\\post\\meme4.png"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme5.jpg",
+      "PackagePath": "staticwebassets\\post\\meme5.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme6.jpg",
+      "PackagePath": "staticwebassets\\post\\meme6.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme7.jpg",
+      "PackagePath": "staticwebassets\\post\\meme7.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme8.jpg",
+      "PackagePath": "staticwebassets\\post\\meme8.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\meme9.jpg",
+      "PackagePath": "staticwebassets\\post\\meme9.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\respuesta.jpg",
+      "PackagePath": "staticwebassets\\post\\respuesta.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\respuesta1.jpg",
+      "PackagePath": "staticwebassets\\post\\respuesta1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\respuesta2.jpg",
+      "PackagePath": "staticwebassets\\post\\respuesta2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\respuesta4.jpg",
+      "PackagePath": "staticwebassets\\post\\respuesta4.jpg"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\windows.png",
+      "PackagePath": "staticwebassets\\post\\windows.png"
+    },
+    {
+      "Id": "c:\\Users\\dylan\\Sam64\\backend\\instapoor_api\\wwwroot\\post\\yo.jpg",
+      "PackagePath": "staticwebassets\\post\\yo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.instapoor_api.props",
+      "PackagePath": "build\\instapoor_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.instapoor_api.props",
+      "PackagePath": "buildMultiTargeting\\instapoor_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.instapoor_api.props",
+      "PackagePath": "buildTransitive\\instapoor_api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.instapoor_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
